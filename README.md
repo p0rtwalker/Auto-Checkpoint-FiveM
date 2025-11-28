@@ -13,7 +13,7 @@ Windows:
 1. Install Python from Microsoft Store. 
 2. Open PowerShell.
 3. Write then press enter: cd /Dowloads/Auto-Checkpoint-FiveM (or where the file is located).
-4. Write then press enter: python -m pip install -r requirements.txt
+4. Write then press enter: python3 -m pip install -r requirements.txt
 5. Write then press enter: python3 FiveM-Checkpoint-Hunter0(Faster-but-Messy).py (or the other file, whatever works the best for you).
 6. If you want to cancel the script press CTRL + C
 
