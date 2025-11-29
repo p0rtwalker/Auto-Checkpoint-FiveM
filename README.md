@@ -17,7 +17,7 @@ Windows:
 4. Right click in the folder and press open in terminal. 
 5. Write then press enter: python3 -m pip install -r requirements.txt
 6. Write then press enter: python3 FiveM-Checkpoint-Hunter0(Faster-but-Messy).py (or the other file, whatever works the best for you).
-7. ! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !
+7. !!! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !!!
 
 Linux & others: You already know.
 
