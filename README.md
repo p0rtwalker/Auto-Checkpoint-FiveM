@@ -8,7 +8,7 @@ This is a simple python code that looks for a color (red) and then does the thin
 
 !!! WORKS AT NIGHT !!! FUNCTIONEAZA NOAPTEA !!!
 
-How to run:
+HOW TO RUN:
 
 Windows:
 1. Install Python from Microsoft Store. 
