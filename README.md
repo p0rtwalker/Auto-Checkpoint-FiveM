@@ -11,11 +11,12 @@ How to run:
 
 Windows:
 1. Install Python from Microsoft Store. 
-2. Download the .zip from the green <> Code button from the github page and extract the Auto-Checkpoint-FiveM.zip and open the folder.
-3. Right click in the folder and press open in terminal. 
-4. Write then press enter: python3 -m pip install -r requirements.txt
-5. Write then press enter: python3 FiveM-Checkpoint-Hunter0(Faster-but-Messy).py (or the other file, whatever works the best for you).
-6. ! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !
+2. Download the .zip from the green <> Code button from the github page.
+3. Extract the Auto-Checkpoint-FiveM.zip and open the folder.
+4. Right click in the folder and press open in terminal. 
+5. Write then press enter: python3 -m pip install -r requirements.txt
+6. Write then press enter: python3 FiveM-Checkpoint-Hunter0(Faster-but-Messy).py (or the other file, whatever works the best for you).
+7. ! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !
 
 Linux & others: You already know.
 
