@@ -22,7 +22,8 @@ Windows:
 
 Linux & others: You already know.
 
-Video of it working: https://mega.nz/file/iR8WgCDB#r0O9qIFdR17VrCyGHWwTSZwMIt5bWyRWOHQWn2Eb2O8
+Video of it working: (I'll make a better video when I'll get in the admin jail again, probably very soon)
+https://mega.nz/file/iR8WgCDB#r0O9qIFdR17VrCyGHWwTSZwMIt5bWyRWOHQWn2Eb2O8
 
 <a href="https://mega.nz/file/iR8WgCDB#r0O9qIFdR17VrCyGHWwTSZwMIt5bWyRWOHQWn2Eb2O8" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/p0rtwalker/Auto-Checkpoint-FiveM/main/img/pic-1.png" alt="Auto-Checkpoint-Fivem-Terminator-Video-Link" height="150"></p></a>
 -
