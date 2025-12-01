@@ -12,7 +12,7 @@ This is a simple python code that looks for a color (red) and then does the thin
 HOW TO RUN:
 
 Windows:
-1. Search and install Python3.12(or latest). 
+1. Search and install Python3.12(or latest) from Microsoft Store. 
 2. Download the .zip from the green <> Code button from the github page.
 3. Extract the Auto-Checkpoint-FiveM.zip and open the folder.
 4. Right click in the folder and press open in terminal. 
