@@ -18,7 +18,8 @@ Windows:
 4. Right click in the folder and press open in terminal. 
 5. Write then press enter: python3 -m pip install -r requirements.txt
 6. Write then press enter: python3 'main.py'
-7. !!! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !!!
+7. Select the right option for you then press enter.
+8. !!! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !!!
 
 Linux & others: You already know.
 
@@ -27,4 +28,4 @@ https://mega.nz/file/iR8WgCDB#r0O9qIFdR17VrCyGHWwTSZwMIt5bWyRWOHQWn2Eb2O8
 
 <a href="https://mega.nz/file/iR8WgCDB#r0O9qIFdR17VrCyGHWwTSZwMIt5bWyRWOHQWn2Eb2O8" target="_blank"><p align="center"><img src="https://raw.githubusercontent.com/p0rtwalker/Auto-Checkpoint-FiveM/main/img/pic-1.png" alt="Auto-Checkpoint-Fivem-Terminator-Video-Link" height="150"></p></a>
 -
-Contact if necessary, discord: u0uct1
+Contact if necessary, discord: q01qkzk
