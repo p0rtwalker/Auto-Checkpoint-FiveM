@@ -14,12 +14,12 @@ HOW TO RUN:
 Windows:
 1. Search and install Python3.12(or latest) from Microsoft Store. 
 2. Download the .zip from the green <> Code button from the github page.
-3. Extract the Auto-Checkpoint-FiveM.zip and open the folder.
+3. Extract/Unzip the Auto-Checkpoint-FiveM.zip and open the folder.
 4. Right click in the folder and press open in terminal. 
 5. Write then press enter: python3 -m pip install -r requirements.txt
 6. Write then press enter: python3 'main.py'
 7. Select the right option for you then press enter.
-8. !!! IF YOU WANT TO STOP THE SCRIPT PRESS: CTRL + C !!!
+8. !!! IF YOU WANT TO STOP THE SCRIPT PRESS IN TERMINAL: CTRL + C !!!
 
 Linux & others: You already know.
 
