@@ -5,7 +5,7 @@ Auto-Checkpoint-FiveM/FiveM-Checkpoint-Terminator
 What is this and what it does: 
 This is a simple python code that looks for a color (red) and then does the things it says in the code so the character in the game moves.
 
-#I'm still trying to improve the code, I do NOT guarantee that its gonna work most of the time. I recommend using the FiveM-Checkpoint-Hunter0(Faster-but-Messy) version with the settings: 1920x1080 display size, 3rd perso view: 2, game: night
+#I'm still trying to improve the code, I do NOT guarantee that its gonna work most of the time. I recommend using those settings: 1920x1080 display size, 3rd perso view: 2, game: night
 
 !!! WORKS AT NIGHT !!! FUNCTIONEAZA NOAPTEA !!!
 
