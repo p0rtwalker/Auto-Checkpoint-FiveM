@@ -8,6 +8,7 @@ from typing import Optional
 
 #FiveM-Checkpoint-Hunter1(Slower-but-Precise)
 #don't steal this stupid code and post it... just make it better if you do.
+#https://github.com/p0rtwalker/Auto-Checkpoint-FiveM
 
 @dataclass
 class Config:
@@ -183,4 +184,5 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         release_all_keys()
+
         print("\n\n[CPTerminator] Stopped by user.")
