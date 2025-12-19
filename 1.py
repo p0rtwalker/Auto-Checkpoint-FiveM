@@ -6,6 +6,7 @@ import time
 
 #FiveM-Checkpoint-Hunter0(Faster-but-Messy)
 #don't steal this stupid code and post it... just make it better if you do.
+#https://github.com/p0rtwalker/Auto-Checkpoint-FiveM
 
 pydirectinput.FAILSAFE = False
 pydirectinput.PAUSE = 0
@@ -140,4 +141,5 @@ with sct:
         pydirectinput.keyDown('d')
         time.sleep(0.05)
         status(f"SCANNING → {int(time_without_red)}s no red")
+
         time.sleep(0.01)
