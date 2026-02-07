@@ -1,5 +1,5 @@
 # Auto-Checkpoint-FiveM/FiveM-Checkpoint-Terminator
-
+# !!! OUTDATED !!! | !!! NO MORE WORKING !!!
 <img src="https://raw.githubusercontent.com/p0rtwalker/Auto-Checkpoint-FiveM/main/img/pic-0.png" alt="Terminator" height="150px">
 
 ## What is this and what it does: 
