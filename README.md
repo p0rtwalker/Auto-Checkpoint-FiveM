@@ -26,7 +26,7 @@ I do NOT guarantee that its gonna work 100% accurate. Fivem isn't going to detec
 1. Search and install Python3.12(or latest) from Microsoft Store or from the main python website.
 2. Download the .zip: <a href="https://github.com/p0rtwalker/Auto-Checkpoint-FiveM/releases/download/Auto-Checkpoint-FiveM/Auto-Checkpoint-FiveM.zip" style="background-color:#28a745;color:white;padding:15px 30px;text-decoration:none;font-weight:bold;border-radius:8px;display:inline-block;font-size:18px;" target="_blank">Auto-Checkpoint-FiveM.zip</a>
 3. Extract/Unzip the Auto-Checkpoint-FiveM.zip and open the folder.
-4. Click on install-requirements.bat once and wait for the dependencies to install.
+4. Click on install-requirements.bat or by using the command python3 -m pip install -r requirements.txt , once and wait for the dependencies to install.
 5. You can now run the script by clicking on FiveM-Checkpoint-Hunter.exe (if you trust the .exe) or by right clicking the main.py and opening it with python. If you don't have the option to open it with python, you may not have python installed or if you do, try the a b steps.
    
 
